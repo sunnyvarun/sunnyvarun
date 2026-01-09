@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h1 align="center">Hi 👋, I'm Sunchu Varunkanth</h1>
 <h3 align="center">if(brain != empty) { keepCoding() }</h3>
 
 ## Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyvarun&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyvarun" /> </p>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyanaik) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:banothkarthik8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunkanth059/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunsunchu59@gmail.com)
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
