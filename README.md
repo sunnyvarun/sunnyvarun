@@ -2,7 +2,7 @@
 <h3 align="center">if(brain != empty) { keepCoding() }</h3>
 
 ## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeya-naik&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya-naik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyvarun&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya-naik" /> </p>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyanaik) 
