@@ -2,7 +2,7 @@
 <h3 align="center">if(brain != empty) { keepCoding() }</h3>
 
 ## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyvarun&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya-naik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyvarun&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyvarun" /> </p>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyanaik) 
@@ -34,16 +34,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeya-naik&show_icons=true&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnyvarun&show_icons=true&theme=dracula&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-naik&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyvarun&layout=compact&theme=dracula)
 
-![](https://nirzak-streak-stats.vercel.app/?user=karthikeya-naik&theme=neon&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=sunnyvarun&theme=neon&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthikeya-naik&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sunnyvarun&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikeya-naik&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyvarun&theme=dracula)
 
 ⚡ Let's connect and build something amazing together!
