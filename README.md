@@ -19,17 +19,33 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=plastic&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=plastic&logo=selenium&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API%20Development-green?style=plastic)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=plastic&logo=canva&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20&%20Algorithms-blue?style=plastic)
+![Arrays](https://img.shields.io/badge/Arrays-Important-brightgreen?style=plastic)
+![Strings](https://img.shields.io/badge/Strings-Problem%20Solving-yellow?style=plastic)
+![Sorting](https://img.shields.io/badge/Sorting-Algorithms-orange?style=plastic)
+![Searching](https://img.shields.io/badge/Searching-Algorithms-red?style=plastic)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=plastic)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Fundamentals-red?style=plastic&logo=security&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Basics-blueviolet?style=plastic)
+![SDLC](https://img.shields.io/badge/SDLC-Software%20Development%20Life%20Cycle-blue?style=plastic)
+![Windows](https://img.shields.io/badge/Windows-OS-0078D6?style=plastic&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-OS-000000?style=plastic&logo=apple&logoColor=white)
+
+
+
 
 
 ## 📊 GitHub Stats
