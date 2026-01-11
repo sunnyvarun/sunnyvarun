@@ -33,7 +33,6 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
 ### 🔹 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -44,6 +43,7 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 
 ### 🔹 Backend & APIs
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/REST-API%20Development-green?style=plastic)
@@ -60,6 +60,7 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ### 🔹 Deployment
+![Hostinger](https://img.shields.io/badge/Hostinger-Web%20Hosting-673DE6?style=plastic&logo=hostinger&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
@@ -89,7 +90,8 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 🔹 Automation Testing Framework (Selenium + API + DB)  
 🔹 Portfolio Website  
 
-👉 Click here to view all projects
+👉 Click [![More Projects](https://img.shields.io/badge/Click%20Here%20for%20More%20Projects-View%20All%20Repos-blue?style=for-the-badge&logo=github)](https://github.com/sunnyvarun?tab=repositories)
+ here to view all projects
 
 ## 🎯 Open To
 ✔ Internships  
