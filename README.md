@@ -89,9 +89,7 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 🔹 E-Commerce Web App  
 🔹 Automation Testing Framework (Selenium + API + DB)  
 🔹 Portfolio Website  
-
-👉 Click [![More Projects](https://img.shields.io/badge/Click%20Here%20for%20More%20Projects-View%20All%20Repos-blue?style=for-the-badge&logo=github)](https://github.com/sunnyvarun?tab=repositories)
- here to view all projects
+[![More Projects](https://img.shields.io/badge/Click%20Here%20to%20View20All%20Projects-View%20All%20Repos-blue?style=for-the-badge&logo=github)](https://github.com/sunnyvarun?tab=repositories)
 
 ## 🎯 Open To
 ✔ Internships  
