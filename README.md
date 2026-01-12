@@ -98,7 +98,11 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnyvarun&show_icons=true&theme=dracula&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyvarun&layout=compact&theme=dracula) ![](https://nirzak-streak-stats.vercel.app/?user=sunnyvarun&theme=neon&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnyvarun&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyvarun&layout=compact&theme=dracula)
+
+![](https://nirzak-streak-stats.vercel.app/?user=sunnyvarun&theme=neon&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sunnyvarun&theme=neon&no-frame=false&no-bg=false&margin-w=4)
