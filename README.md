@@ -5,11 +5,6 @@
 I build, test, and deploy real-world web applications using modern full-stack technologies and automation frameworks.
 </p>
 
----
-
-## 👨‍💻 About Me  
-I'm a **Full-Stack Web Developer and Automation Testing Enthusiast** focused on building scalable applications and validating them using automated testing.
-
 I specialize in:
 - Building production-ready web applications  
 - Designing RESTful APIs  
