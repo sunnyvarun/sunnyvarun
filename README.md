@@ -99,10 +99,6 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunnyvarun&theme=neon)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyvarun&theme=dracula)
-
-
 ![](https://nirzak-streak-stats.vercel.app/?user=sunnyvarun&theme=neon&hide_border=false)
 
 ## 🏆 GitHub Trophies
