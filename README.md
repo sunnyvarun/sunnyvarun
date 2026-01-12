@@ -98,9 +98,10 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunnyvarun&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=sunnyvarun&theme=neon)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunnyvarun&layout=compact&theme=dracula)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyvarun&theme=dracula)
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=sunnyvarun&theme=neon&hide_border=false)
 
