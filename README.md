@@ -99,8 +99,7 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 
 ## 📊 GitHub Stats
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyvarun&theme=github_dark)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyvarun&theme=github_dark) ![GitHub Streak](https://streak-stats.demolab.com?user=sunnyvarun&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyvarun&theme=github_dark) 
 
 
 
