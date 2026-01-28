@@ -113,4 +113,4 @@ Currently building projects focused on **SaaS platforms, testing automation, and
 
 ---
 
-⚡ Let’s build, test, and ship great software together.
+ Let’s build, test, and ship great software together.
