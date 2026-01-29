@@ -12,7 +12,7 @@ I specialize in:
 - Database-driven systems  
 - Clean and maintainable code  
 
-Currently building projects focused on **SaaS platforms, testing automation, and AI-assisted systems.
+Currently building projects focused on SaaS platforms, testing automation, and AI-assisted systems.
 
 ---
 
